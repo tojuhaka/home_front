@@ -1,2 +1,8 @@
-# home_front
-Frontend on top of Home API
+# Frontend for Home API
+
+Frontend to visualize json data from Home API
+
+- chart.js
+- webpack
+- simple grid
+- npm
